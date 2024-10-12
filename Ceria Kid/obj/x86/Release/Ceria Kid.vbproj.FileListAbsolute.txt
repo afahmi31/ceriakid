@@ -1,0 +1,45 @@
+C:\Users\rvg\Documents\Visual Studio 2010\Projects\Ceria Kid\Ceria Kid\bin\Release\Ceria Kid.exe.config
+C:\Users\rvg\Documents\Visual Studio 2010\Projects\Ceria Kid\Ceria Kid\obj\x86\Release\Ceria Kid.vbprojResolveAssemblyReference.cache
+C:\Users\rvg\Documents\Visual Studio 2010\Projects\Ceria Kid\Ceria Kid\obj\x86\Release\Ceria_Kid.FrmLogin.resources
+C:\Users\rvg\Documents\Visual Studio 2010\Projects\Ceria Kid\Ceria Kid\obj\x86\Release\Ceria_Kid.FrmScanner.resources
+C:\Users\rvg\Documents\Visual Studio 2010\Projects\Ceria Kid\Ceria Kid\obj\x86\Release\Ceria_Kid.Resources.resources
+C:\Users\rvg\Documents\Visual Studio 2010\Projects\Ceria Kid\Ceria Kid\obj\x86\Release\Ceria Kid.vbproj.GenerateResource.Cache
+C:\Users\rvg\Documents\Visual Studio 2010\Projects\Ceria Kid\Ceria Kid\bin\Release\Ceria Kid.exe
+C:\Users\rvg\Documents\Visual Studio 2010\Projects\Ceria Kid\Ceria Kid\bin\Release\Ceria Kid.pdb
+C:\Users\rvg\Documents\Visual Studio 2010\Projects\Ceria Kid\Ceria Kid\bin\Release\Ceria Kid.xml
+C:\Users\rvg\Documents\Visual Studio 2010\Projects\Ceria Kid\Ceria Kid\bin\Release\MetroFramework.dll
+C:\Users\rvg\Documents\Visual Studio 2010\Projects\Ceria Kid\Ceria Kid\bin\Release\MetroFramework.Fonts.dll
+C:\Users\rvg\Documents\Visual Studio 2010\Projects\Ceria Kid\Ceria Kid\obj\x86\Release\Ceria Kid.exe
+C:\Users\rvg\Documents\Visual Studio 2010\Projects\Ceria Kid\Ceria Kid\obj\x86\Release\Ceria Kid.xml
+C:\Users\rvg\Documents\Visual Studio 2010\Projects\Ceria Kid\Ceria Kid\obj\x86\Release\Ceria Kid.pdb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Ceria Kid\Ceria Kid\bin\Release\Ceria Kid.exe.config
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Ceria Kid\Ceria Kid\bin\Release\Ceria Kid.exe
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Ceria Kid\Ceria Kid\bin\Release\Ceria Kid.pdb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Ceria Kid\Ceria Kid\bin\Release\Ceria Kid.xml
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Ceria Kid\Ceria Kid\bin\Release\ChilkatDotNet4.dll
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Ceria Kid\Ceria Kid\bin\Release\MetroFramework.dll
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Ceria Kid\Ceria Kid\bin\Release\MetroFramework.Fonts.dll
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Ceria Kid\Ceria Kid\bin\Release\Newtonsoft.Json.dll
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Ceria Kid\Ceria Kid\obj\x86\Release\Ceria Kid.vbprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Ceria Kid\Ceria Kid\obj\x86\Release\Ceria_Kid.x.resources
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Ceria Kid\Ceria Kid\obj\x86\Release\Ceria_Kid.FrmScanner.resources
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Ceria Kid\Ceria Kid\obj\x86\Release\Ceria_Kid.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Ceria Kid\Ceria Kid\obj\x86\Release\Ceria Kid.vbproj.GenerateResource.Cache
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Ceria Kid\Ceria Kid\obj\x86\Release\Ceria Kid.exe
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Ceria Kid\Ceria Kid\obj\x86\Release\Ceria Kid.xml
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Ceria Kid\Ceria Kid\obj\x86\Release\Ceria Kid.pdb
+C:\Users\mcd\Documents\Visual Studio 2010\Projects\Ceria Kid\Ceria Kid\bin\Release\Ceria Kid.exe.config
+C:\Users\mcd\Documents\Visual Studio 2010\Projects\Ceria Kid\Ceria Kid\bin\Release\Ceria Kid.exe
+C:\Users\mcd\Documents\Visual Studio 2010\Projects\Ceria Kid\Ceria Kid\bin\Release\Ceria Kid.pdb
+C:\Users\mcd\Documents\Visual Studio 2010\Projects\Ceria Kid\Ceria Kid\bin\Release\Ceria Kid.xml
+C:\Users\mcd\Documents\Visual Studio 2010\Projects\Ceria Kid\Ceria Kid\bin\Release\ChilkatDotNet4.dll
+C:\Users\mcd\Documents\Visual Studio 2010\Projects\Ceria Kid\Ceria Kid\bin\Release\MetroFramework.dll
+C:\Users\mcd\Documents\Visual Studio 2010\Projects\Ceria Kid\Ceria Kid\bin\Release\MetroFramework.Fonts.dll
+C:\Users\mcd\Documents\Visual Studio 2010\Projects\Ceria Kid\Ceria Kid\bin\Release\Newtonsoft.Json.dll
+C:\Users\mcd\Documents\Visual Studio 2010\Projects\Ceria Kid\Ceria Kid\obj\x86\Release\Ceria_Kid.x.resources
+C:\Users\mcd\Documents\Visual Studio 2010\Projects\Ceria Kid\Ceria Kid\obj\x86\Release\Ceria_Kid.FrmScanner.resources
+C:\Users\mcd\Documents\Visual Studio 2010\Projects\Ceria Kid\Ceria Kid\obj\x86\Release\Ceria_Kid.Resources.resources
+C:\Users\mcd\Documents\Visual Studio 2010\Projects\Ceria Kid\Ceria Kid\obj\x86\Release\Ceria Kid.vbproj.GenerateResource.Cache
+C:\Users\mcd\Documents\Visual Studio 2010\Projects\Ceria Kid\Ceria Kid\obj\x86\Release\Ceria Kid.exe
+C:\Users\mcd\Documents\Visual Studio 2010\Projects\Ceria Kid\Ceria Kid\obj\x86\Release\Ceria Kid.xml
+C:\Users\mcd\Documents\Visual Studio 2010\Projects\Ceria Kid\Ceria Kid\obj\x86\Release\Ceria Kid.pdb

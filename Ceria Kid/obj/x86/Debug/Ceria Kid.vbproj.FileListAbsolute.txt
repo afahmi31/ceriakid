@@ -1,0 +1,25 @@
+C:\Users\rvg\documents\visual studio 2010\Projects\Ceria Kid\Ceria Kid\bin\Debug\Ceria Kid.exe.config
+C:\Users\rvg\documents\visual studio 2010\Projects\Ceria Kid\Ceria Kid\bin\Debug\Ceria Kid.exe
+C:\Users\rvg\documents\visual studio 2010\Projects\Ceria Kid\Ceria Kid\bin\Debug\Ceria Kid.pdb
+C:\Users\rvg\documents\visual studio 2010\Projects\Ceria Kid\Ceria Kid\bin\Debug\Ceria Kid.xml
+C:\Users\rvg\documents\visual studio 2010\Projects\Ceria Kid\Ceria Kid\bin\Debug\MetroFramework.dll
+C:\Users\rvg\documents\visual studio 2010\Projects\Ceria Kid\Ceria Kid\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\rvg\documents\visual studio 2010\Projects\Ceria Kid\Ceria Kid\obj\x86\Debug\Ceria_Kid.FrmLogin.resources
+C:\Users\rvg\documents\visual studio 2010\Projects\Ceria Kid\Ceria Kid\obj\x86\Debug\Ceria_Kid.Resources.resources
+C:\Users\rvg\documents\visual studio 2010\Projects\Ceria Kid\Ceria Kid\obj\x86\Debug\Ceria Kid.vbproj.GenerateResource.Cache
+C:\Users\rvg\documents\visual studio 2010\Projects\Ceria Kid\Ceria Kid\obj\x86\Debug\Ceria Kid.exe
+C:\Users\rvg\documents\visual studio 2010\Projects\Ceria Kid\Ceria Kid\obj\x86\Debug\Ceria Kid.xml
+C:\Users\rvg\documents\visual studio 2010\Projects\Ceria Kid\Ceria Kid\obj\x86\Debug\Ceria Kid.pdb
+C:\Users\rvg\documents\visual studio 2010\Projects\Ceria Kid\Ceria Kid\obj\x86\Debug\Ceria_Kid.FrmScanner.resources
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Ceria Kid\Ceria Kid\bin\Debug\Ceria Kid.exe.config
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Ceria Kid\Ceria Kid\bin\Debug\Ceria Kid.exe
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Ceria Kid\Ceria Kid\bin\Debug\Ceria Kid.pdb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Ceria Kid\Ceria Kid\bin\Debug\Ceria Kid.xml
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Ceria Kid\Ceria Kid\bin\Debug\ChilkatDotNet4.dll
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Ceria Kid\Ceria Kid\obj\x86\Debug\Ceria_Kid.x.resources
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Ceria Kid\Ceria Kid\obj\x86\Debug\Ceria_Kid.FrmScanner.resources
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Ceria Kid\Ceria Kid\obj\x86\Debug\Ceria_Kid.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Ceria Kid\Ceria Kid\obj\x86\Debug\Ceria Kid.vbproj.GenerateResource.Cache
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Ceria Kid\Ceria Kid\obj\x86\Debug\Ceria Kid.exe
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Ceria Kid\Ceria Kid\obj\x86\Debug\Ceria Kid.xml
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Ceria Kid\Ceria Kid\obj\x86\Debug\Ceria Kid.pdb
