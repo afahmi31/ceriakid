@@ -67,8 +67,7 @@
     <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="ChilkatDotNet4, Version=9.5.0.99, Culture=neutral, PublicKeyToken=eb5fc1fc52ef09bd, processorArchitecture=x86">
-      <SpecificVersion>False</SpecificVersion>
+    <Reference Include="ChilkatDotNet4">
       <HintPath>..\chilkatdotnet4-win32\ChilkatDotNet4.dll</HintPath>
     </Reference>
     <Reference Include="MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">

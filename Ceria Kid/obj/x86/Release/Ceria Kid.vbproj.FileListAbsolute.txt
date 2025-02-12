@@ -36,6 +36,7 @@ C:\Users\mcd\Documents\Visual Studio 2010\Projects\Ceria Kid\Ceria Kid\bin\Relea
 C:\Users\mcd\Documents\Visual Studio 2010\Projects\Ceria Kid\Ceria Kid\bin\Release\MetroFramework.dll
 C:\Users\mcd\Documents\Visual Studio 2010\Projects\Ceria Kid\Ceria Kid\bin\Release\MetroFramework.Fonts.dll
 C:\Users\mcd\Documents\Visual Studio 2010\Projects\Ceria Kid\Ceria Kid\bin\Release\Newtonsoft.Json.dll
+C:\Users\mcd\Documents\Visual Studio 2010\Projects\Ceria Kid\Ceria Kid\obj\x86\Release\Ceria Kid.vbprojResolveAssemblyReference.cache
 C:\Users\mcd\Documents\Visual Studio 2010\Projects\Ceria Kid\Ceria Kid\obj\x86\Release\Ceria_Kid.x.resources
 C:\Users\mcd\Documents\Visual Studio 2010\Projects\Ceria Kid\Ceria Kid\obj\x86\Release\Ceria_Kid.FrmScanner.resources
 C:\Users\mcd\Documents\Visual Studio 2010\Projects\Ceria Kid\Ceria Kid\obj\x86\Release\Ceria_Kid.Resources.resources
